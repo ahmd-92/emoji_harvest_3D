@@ -8,6 +8,10 @@ This game made by Unity and C#. Includes google ads
 
 Object of the game is to memory challenge the user. At the start of the level a specific number of emojis will apear for 3 sec. The user should memorize these emojis and then control stickman to collect the exact number of emojis.
 
+The game has an auto generate level script which make it has endless number of levels.
+
+User should complete specific number of levels in specific difficulty to unlock the next difficulty
+
 The game is consist of 2 scenes. Loading scene and game scene
 
 Inside Game scene:
@@ -19,3 +23,5 @@ The game has a main game, which is stickman run and collect then got rewarded so
 
 ![2](https://github.com/ahmd-92/emoji_harvest_3D/assets/43212321/ddf5dd1d-8ec7-4115-91aa-b79e3d86a129)
 ![3](https://github.com/ahmd-92/emoji_harvest_3D/assets/43212321/a8c26436-f5a0-44c4-a0d7-0b163900715f)
+
+
